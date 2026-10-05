@@ -46,5 +46,5 @@ Use it to fix what is obviously broken, not to chase a number.
 
 ---
 
-Built by a frontend engineer who explains tech in Tamil — *Barath | Compile & Compound* on
-Instagram and YouTube.
+Built by a frontend engineer who explains tech in Tamil —
+[@barathbuilds on Instagram](https://www.instagram.com/barathbuilds) · [iambharathpadhu.vercel.app](https://iambharathpadhu.vercel.app)
